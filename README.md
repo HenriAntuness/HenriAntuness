@@ -24,7 +24,7 @@ I'm currently building my foundations in **programming logic** and steering my s
 
 ## Fun Fact
 
-I'm still a little lost — and that's okay. The goal is to eventually head back abroad, and I'm betting that a career in software can open the right doors for that next chapter. 🌏
+The goal is to eventually head back abroad, and I'm betting that a career in software can open the right doors for that next chapter. 🌏
 
 ---
 
